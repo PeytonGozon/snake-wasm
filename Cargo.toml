@@ -1,5 +1,5 @@
 [package]
-name = "snake-wasm"
+name = "snake-wasm-pgozon"
 version = "0.1.0"
 authors = ["Peyton Gozon <peyton.gozon@gmail.com>"]
 edition = "2018"

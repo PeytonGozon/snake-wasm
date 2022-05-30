@@ -1,4 +1,4 @@
-import { Direction, Universe, UniverseTickOutcomes } from "snake-wasm";
+import { Direction, Universe, UniverseTickOutcomes } from "snake-wasm-pgozon";
 
 const canvas = document.getElementById("snake-canvas");
 const statusField = document.getElementById("status");
