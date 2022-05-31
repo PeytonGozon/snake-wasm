@@ -19,7 +19,7 @@
   "author": "Peyton Gozon <peyton.gozon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "snake-wasm-pgozon": "0.1.0"
+    "snake-wasm-pgozon": "file:../pkg"
   },
   "devDependencies": {
     "hello-wasm-pack": "^0.1.0",
