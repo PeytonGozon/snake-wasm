@@ -3,7 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title>Snake - WASM</title>
-    <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
+<!--    <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />-->
+    <style type="text/css" media="screen">
+      body {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+      }
+
+      html {
+        margin: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        background-color: #1E3D58; /*#05445e;*/
+      }
+
+      pre {
+        color: #d4f1f4;
+      }
+    </style>
   </head>
   <body>
     <noscript>This page contains webassembly and javascript content, please enable javascript in your browser.</noscript>
